@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Timer - kotlin</string>
+    <string name="completed_image">completed image</string>
+</resources>
